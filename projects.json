@@ -20,6 +20,7 @@
     "messaging4transport":"Messaging4Transport",
     "netconf":"NETCONF",
     "netide":"NetIDE",
+    "netvirt":"Network Virtualization",
     "neutron":"Neutron Northbound",
     "next":"NeXt UI Toolkit",
     "nic":"Network Intent Composition (NIC)",
