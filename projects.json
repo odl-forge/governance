@@ -12,6 +12,7 @@
     "docs":"Documentation",
     "eman":"Energy Management Plugin",
     "faas":"Fabric As A Service (FaaS)",
+    "genius":"Genius",
     "groupbasedpolicy":"Group Based Policy (GBP)",
     "honeycomb/vbd":"Honeycomb Virtual Bridge Domain",
     "infrautils":"Infrastructure Utilities",
